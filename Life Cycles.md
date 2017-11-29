@@ -22,3 +22,15 @@
 #### The spiral model is a risk-driven process model generator for software projects. Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models.
 
 #### This model was first described by Barry Boehm in his 1986 paper Called A Spiral Model of Software Development and Enhancement.
+
+### Advantages 
+
+#### High amount of risk analysis hence, avoidance of Risk is enhanced
+#### Good for large and mission-critical projects
+#### Additional Functionality can be added at a later date
+
+### Disadvantages
+
+#### Can be a costly model to use.
+#### Risk analysis requires highly specific expertise.
+#### Project’s success is highly dependent on the risk analysis phase

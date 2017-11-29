@@ -1,2 +1,3 @@
+## Life Cycles
 
-#### The systems development life cycle (SDLC), also referred to as the application development life-cycle, is a term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system.[1] The systems development lifecycle concept applies to a range of hardware and software
+#### The Systems Development Life Cycle, Is a term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system. 

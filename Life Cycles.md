@@ -35,6 +35,11 @@
 #### Risk analysis requires highly specific expertise.
 #### Project’s success is highly dependent on the risk analysis phase
 
+### How Risk Is Managed
+
+#### The spiral model is a risk driven model which means that the overall success of a project highly depends on the risks analysis phase. Risk analysis requires specific expertise on every iteration. Firstly, it seems this model is complicated and hard to run but this model has its strong sides. 
+#### For example, there’s a possibility to add some additional functionality at the last stages of product development. Since risk monitoring and regular expertise are core characteristics of this approach, the overall project becomes more transparent
+
 
 ## Prototyping 
 

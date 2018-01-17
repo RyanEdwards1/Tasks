@@ -34,3 +34,38 @@
 #### Can be a costly model to use.
 #### Risk analysis requires highly specific expertise.
 #### Project’s success is highly dependent on the risk analysis phase
+
+
+### Prototyping 
+
+#### prototyping refers to the creating of software applications at early stages of development, for example, incomplete versions of the software program being developed. It is an activity that can occur in software development. It used to visualize some component of the software to limit the gap of misunderstanding the customer requirements by the development team. This also will reduce the iterations may occur in waterfall approach and hard to be implemented due to the inflexibility of the waterfall approach. So, when the final prototype is developed, the requirement is considered to be frozen
+
+### Advantages
+
+#### Reduced time and costs, but this can be a disadvantage if the developer loses time in developing the prototypes.
+#### Improved and increased user involvement.
+
+### Disadvantages 
+
+#### Insufficient analysis· User confusion of prototype and finished system.
+#### Developer misunderstanding of user objectives.
+#### Excessive development time of the prototype.
+#### Expense of implementing prototyping
+
+
+### Evolutionary 
+
+#### This Evolutionary method is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to your appraisal. Each program version inherits the best features from earlier versions. Each version is refined based upon feedback from yourself to produce a system which satisfies your needs. At this point the system may be delivered or it may be re-implemented using a more structured approach to enhance robustness and maintainability. Specification, development and validation activities are concurrent with strong feedback between each.
+
+### Advantages 
+
+#### This is the only method appropriate for situations where a detailed system specification is unavailable. 
+#### Effective in rapidly producing small systems.
+#### software with short life spans.
+#### developing sub-components of larger systems.
+
+### Disadvantages 
+
+#### It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves. 
+#### This paradigm usually results in badly structured programs due to continual code modification. 
+#### Production of good quality software using this method requires highly skilled and motivated programmers.

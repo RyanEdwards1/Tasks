@@ -2,7 +2,7 @@
 
 #### The Systems Development Life Cycle, Is a term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system. 
 
-### WaterFall Method 
+## WaterFall Method 
 
 #### The waterfall is a sequentian non-iterative design model , used in software development proccesses. The waterfall development model originated in the manufacturing and construction industries; where the highly structured physical environments meant that design changes became prohibitively expensive much sooner in the development process.
 
@@ -17,7 +17,7 @@
 #### No working software is produced until late during the life cycle.
 
 
-### Spiral Method
+## Spiral Method
 
 #### The spiral model is a risk-driven process model generator for software projects. Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models.
 
@@ -36,7 +36,7 @@
 #### Project’s success is highly dependent on the risk analysis phase
 
 
-### Prototyping 
+## Prototyping 
 
 #### prototyping refers to the creating of software applications at early stages of development, for example, incomplete versions of the software program being developed. It is an activity that can occur in software development. It used to visualize some component of the software to limit the gap of misunderstanding the customer requirements by the development team. This also will reduce the iterations may occur in waterfall approach and hard to be implemented due to the inflexibility of the waterfall approach. So, when the final prototype is developed, the requirement is considered to be frozen
 
@@ -53,7 +53,7 @@
 #### Expense of implementing prototyping
 
 
-### Evolutionary 
+## Evolutionary 
 
 #### This Evolutionary method is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to your appraisal. Each program version inherits the best features from earlier versions. Each version is refined based upon feedback from yourself to produce a system which satisfies your needs. At this point the system may be delivered or it may be re-implemented using a more structured approach to enhance robustness and maintainability. Specification, development and validation activities are concurrent with strong feedback between each.
 

@@ -1,7 +1,7 @@
 ## Feasibility Report
 
 ### What Is The Feasibility Report:
-##### A feasibility study aims to objectively and rationally uncover the strengths and weaknesses of an existing business or proposed venture, opportunities and threats present in the natural environment, the resources required to carry through, and ultimately the prospects for success.[1][2] In its simplest terms, the two criteria to judge feasibility are cost required and value to be attain
+##### A feasibility study aims to objectively and rationally uncover the strengths and weaknesses of an existing business or proposed venture, opportunities and threats present in the natural environment, the resources required to carry through, and ultimately the prospects for success. In its simplest terms, the two criteria to judge feasibility are cost required and value to be attain
 
 ### How Does It Work:
 ##### The selection among a number of methods to produce the same commodity should be undertaken first. Factors that make one method being preferred to other method in agricultural projects are the following: 

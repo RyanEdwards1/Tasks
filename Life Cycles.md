@@ -16,6 +16,10 @@
 
 #### No working software is produced until late during the life cycle.
 
+### Example Of Using The Waterfall Method 
+#### The Development team analyzes the requirements set by the customer. They must fully understand the problems as well as the positives. This is a research phase that includes no building. The team attempts to ask all the questions and secure all the answers they need to build the product requirement. The Software team design a technical solution to the problems set out by the product requirements which includes scenarios, layouts and data models. This phase is usually accompanied by documentation for each requirement, which enables other members of the team to review it for validation
+#### Once the design is approved the technical implementation begins. This is normally the shortest phase because research and design have been done in advance. Upon completion of full implementation, testing needs to take place before the product can be released to customers. The software testing team will use the design documents, personas and user case scenarios delivered by the product manager in order to create their test cases
+
 
 ## Spiral Method
 

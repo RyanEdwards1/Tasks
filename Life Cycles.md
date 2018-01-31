@@ -41,8 +41,7 @@
 
 ### How Risk Is Managed
 
-#### The spiral model is a risk driven model which means that the overall success of a project highly depends on the risks analysis phase. Risk analysis requires specific expertise on every iteration. Firstly, it seems this model is complicated and hard to run but this model has its strong sides. 
-#### For example, there’s a possibility to add some additional functionality at the last stages of product development. Since risk monitoring and regular expertise are core characteristics of this approach, the overall project becomes more transparent
+#### The first step is to identify the risk, the second step is to see how dangerous the risk is between low risk and high risk and how urgent It needs to be acted upon, the third risk is to monitor the risk to see if it has happened or happening now. The next step is if the risk has happened then you need to act upon on it if the risk has not happened yet then you continue to repeat the third step of monitoring it 
 
 
 ## Prototyping 

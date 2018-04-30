@@ -26,9 +26,8 @@
 
 ## Spiral Method (Iterative)
 
-#### The spiral model is a risk-driven process model generator for software projects. Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models.
+#### The spiral model is a risk-driven process model generator for software projects. Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models. The Spiral model has four different phases which the project repeatedly passes though. The four phases are Planning, Risk Analysis, Engineering and Evaluation. The software passes though these starting with the planning phase where the requirements are gathered. Next is risk where it identifys the risk and alternate solutions and a prototype is produced. The Engineering Phase is the development phase along with some testing at the end of the phase. But the development and testing is done separately in the phase. Then the final phase is Evaluation. In this phase it allows the customer to see the finished project before it then goes though the cycle again or to the next spiral
 
-#### This model was first described by Barry Boehm in his 1986 paper Called A Spiral Model of Software Development and Enhancement.
 
 ### Advantages 
 

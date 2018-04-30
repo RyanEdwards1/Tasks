@@ -20,10 +20,11 @@
 ##### Provides documentation that the business venture was thoroughly investigated.
 
 ### Purpose: 
-##### The purpose of the Feasibility Report is to determine the factors that will make the business opportunity that was presented in the business case a success
+##### The purpose of the Feasibility Report is to determine the factors that will make the business opportunity that was presented in the business case a success. it is normally carried out at the start of a new project
 
 ### Different Components In a Feasibility Report
-##### The current Market analysis 
+##### The project scope
+##### Market analysis 
 ##### The requirements
 ##### The approach 
 ##### Evaluation

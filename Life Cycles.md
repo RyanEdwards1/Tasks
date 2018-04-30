@@ -61,19 +61,21 @@
 #### Expense of implementing prototyping
 
 
-## Evolutionary 
+## V Model
 
-#### This Evolutionary method is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to your appraisal. Each program version inherits the best features from earlier versions. Each version is refined based upon feedback from yourself to produce a system which satisfies your needs. At this point the system may be delivered or it may be re-implemented using a more structured approach to enhance robustness and maintainability. Specification, development and validation activities are concurrent with strong feedback between each.
+#### V Model is an SDLC model where execution of processes happens in the shape of a V. Hence the name. V Model is also known as Verification and Validation model.
+#### The V Model is an Extension from the waterfall model which I have talked about above. It is based on the testing phase for each development stage. This means that every phase in the cycle is tested and it will only move on to the next phase once it has completed the one before. There are two different side of the V. One is Verification Phases and the other is Validation Phases. Then at the Bottom of the V the Coding Phase joins the two sides together.
 
-### Advantages 
+### Advantages:
+#### Easy / Simple to use
+#### Testing happens before coding. This can save time by stopping you from running into problems when coding 
+#### Works well for small projects
+#### Proactive Defect Tracking. Meaning The problems are found early on
+#### Avoids the downward flow of the defects 
+#### Helps with keeping you on track and time management 
 
-#### This is the only method appropriate for situations where a detailed system specification is unavailable. 
-#### Effective in rapidly producing small systems.
-#### software with short life spans.
-#### developing sub-components of larger systems.
-
-### Disadvantages 
-
-#### It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves. 
-#### This paradigm usually results in badly structured programs due to continual code modification. 
-#### Production of good quality software using this method requires highly skilled and motivated programmers.
+Disadvantages:
+#### If you decide to change something midway, then the testing and requirement documentation has to change.
+#### Poor Model for long ongoing Projects. As Changes can happen
+#### High Risk 
+#### No Working Software is produced till late on in the cycle 

@@ -2,7 +2,7 @@
 
 #### The Systems Development Life Cycle, Is a term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system. 
 
-## WaterFall Method 
+## WaterFall Method (Sequential)
 
 #### The waterfall is a sequentian non-iterative design model , used in software development proccesses. The waterfall development model originated in the manufacturing and construction industries; where the highly structured physical environments meant that design changes became prohibitively expensive much sooner in the development process.
 
@@ -24,7 +24,7 @@
 #### Once the design is approved the technical implementation begins. This is normally the shortest phase because research and design have been done in advance. Upon completion of full implementation, testing needs to take place before the product can be released to customers. The software testing team will use the design documents, personas and user case scenarios delivered by the product manager in order to create their test cases
 
 
-## Spiral Method
+## Spiral Method (Iterative)
 
 #### The spiral model is a risk-driven process model generator for software projects. Based on the unique risk patterns of a given project, the spiral model guides a team to adopt elements of one or more process models.
 
@@ -47,7 +47,7 @@
 #### The first step is to identify the risk, the second step is to see how dangerous the risk is between low risk and high risk and how urgent It needs to be acted upon, the third risk is to monitor the risk to see if it has happened or happening now. The next step is if the risk has happened then you need to act upon on it if the risk has not happened yet then you continue to repeat the third step of monitoring it 
 
 
-## Prototyping 
+## Prototyping (Iterative)
 
 #### Prototyping refers to the creating of software applications at early stages of development, for example, incomplete versions of the software program being developed. It is an activity that can occur in software development. It used to visualize some component of the software to limit the gap of misunderstanding the customer requirements by the development team. This also will reduce the iterations may occur in waterfall approach and hard to be implemented due to the inflexibility of the waterfall approach. So, when the final prototype is developed, the requirement is considered to be frozen
 
@@ -64,7 +64,7 @@
 * Expense of implementing prototyping
 
 
-## V Model
+## V Model (Sequentail)
 
 #### V Model is an SDLC model where execution of processes happens in the shape of a V. Hence the name. V Model is also known as Verification and Validation model.
 #### The V Model is an Extension from the waterfall model which I have talked about above. It is based on the testing phase for each development stage. This means that every phase in the cycle is tested and it will only move on to the next phase once it has completed the one before. There are two different side of the V. One is Verification Phases and the other is Validation Phases. Then at the Bottom of the V the Coding Phase joins the two sides together.

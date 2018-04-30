@@ -10,9 +10,13 @@
 
 ### Advantages
 * The advantages of the waterfall model consist of the simple methodology and structure behind the model, making it easy to understand and use as like a waterfall the proccessess only flow one way not branching back or off the rythm or flow.
+* Very good for short projects
+* People understand the technology
 
 ### Disadvantages
 * Once an application is in the testing stage, it is very difficult to go back and change something that was not well-thought out in the concept stage.
+* Not a good model for complex and long projects
+* No working software till the end of the cycle
 
 #### No working software is produced until late during the life cycle.
 

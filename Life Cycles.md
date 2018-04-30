@@ -17,8 +17,7 @@
 * Once an application is in the testing stage, it is very difficult to go back and change something that was not well-thought out in the concept stage.
 * Not a good model for complex and long projects
 * No working software till the end of the cycle
-
-#### No working software is produced until late during the life cycle.
+* No working software is produced until late during the life cycle.
 
 ### Example Of Using The Waterfall Method 
 #### The Development team analyzes the requirements set by the customer. They must fully understand the problems as well as the positives. This is a research phase that includes no building. The team attempts to ask all the questions and secure all the answers they need to build the product requirement. The Software team design a technical solution to the problems set out by the product requirements which includes scenarios, layouts and data models. This phase is usually accompanied by documentation for each requirement, which enables other members of the team to review it for validation

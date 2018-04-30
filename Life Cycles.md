@@ -43,7 +43,7 @@
 
 ### How Risk Is Managed
 
-#### The first step is to identify the risk, the second step is to see how dangerous the risk is between low risk and high risk and how urgent It needs to be acted upon, the third risk is to monitor the risk to see if it has happened or happening now. The next step is if the risk has happened then you need to act upon on it if the risk has not happened yet then you continue to repeat the third step of monitoring it.
+#### The Spiral Model is costly to use and dosent work well for small projects. it is a risk event driven model. This means that the overall project lies on the success of the risk analysis. The first step is to identify the risk so you know what you are working with, the second step is to see how dangerous the risk is between low risk and high risk and how urgent It needs to be acted upon within the project by listing them in importance, the third risk is to monitor the risk to see if it has happened or happening now. The next step is if the risk has happened then you need to act upon on it if the risk has not happened yet then you continue to repeat the third step of monitoring it. Then you need to keep on monitoring till the end. Once at the end your prototype is produced.
 
 
 ## Prototyping (Iterative)
